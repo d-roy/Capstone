@@ -20,7 +20,7 @@ The goal of the project is to build a predictive text model combined with a shin
 
 *[Shiny App]* - [https://d-roy.shinyapps.io/wordpredictor]
 
-*[Github Repo]* - [https://github.com/d-roy/capstone]
+*[Github Repo]* - [https://github.com/d-roy/Capstone]
 
 </font>
 
