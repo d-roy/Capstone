@@ -1,0 +1,11 @@
+name: wordpredictor
+title: WordPredictor
+account: d-roy
+server: shinyapps.io
+appId: 167048
+bundleId: 763028
+url: https://d-roy.shinyapps.io/wordpredictor/
+when: 1490460887.06753
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: logo.png|slide.md|slide.Rpres|word_predict_app.png
